@@ -5,6 +5,6 @@ export default function Projects(){
     <hr className="border-t-2"/>
     <Project title="To Do List App" tools="JavaScript | HTML | CSS | Webpack"/>
     <Project title="Weather App" tools="Java | Python"/>
-    
+    <Project title="Calculator" tools="JavaScript | HTML | CSS" />
 </div>
 }
